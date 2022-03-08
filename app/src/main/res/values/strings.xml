@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">INSTAGRAM APP</string>
+
+    <string name="back4app_server_url">https://parseapi.back4app.com/</string>
+    <!-- Paste BOTH strings as required -->
+    <string name="back4app_app_id">wvZnbM2o9tkKsEtJAhl5zM3F2CuEmOndjx30XROU</string>
+    <string name="back4app_client_key">gXtTDGNBB2fw6lGHGNV64zrA4kyncB9ap4VlqcAN</string>
+    <!-- Login Fragment Values -->
+    <!-- Hints -->
+    <string name="login_fragment_email_hint" translatable="false">Enter Your Login</string>
+    <string name="login_fragment_password_hint" translatable="false">Enter Your Password</string>
+    <!-- Hints -->
+
+    <!-- Strings -->
+    <string name="login_fragment_email_title" translatable="false">Your Login</string>
+    <string name="login_fragment_password_title" translatable="false">Your Password</string>
+    <string name="login_fragment_enter_title" translatable="false">Enter</string>
+    <string name="login_fragment_not_registered" translatable="false">Not Registered?</string>
+    <string name="login_fragment_register" translatable="false">Register</string>
+    <!-- Strings -->
+    <!-- Login Fragment Values -->
+
+
+    <!-- Create Login Fragment Values -->
+    <!-- Hints -->
+    <string name="create_login_fragment_login_hint" translatable="false">Enter Your login</string>
+    <string name="create_login_fragment_password_hint" translatable="false">Enter Your password</string>
+    <string name="create_login_fragment_name_hint" translatable="false">Enter Your Username</string>
+    <string name="create_login_fragment_lastName_hint" translatable="false">Enter Your last name</string>
+    <!-- Hints -->
+
+    <!-- Strings -->
+    <string name="create_login_fragment_title" translatable="false">Enter your details</string>
+    <string name="create_login_fragment_register_btn" translatable="false">Register</string>
+    <string name="create_login_fragment_already" translatable="false">Already registered?</string>
+    <string name="create_login_fragment_login_txt" translatable="false">Login</string>
+    <string name="title_home">Home</string>
+    <string name="title_add_post">Add Post</string>
+    <string name="title_profile">Profile</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="joseph">Joseph</string>
+    <!-- Strings -->
+    <!-- Create Login Fragment Values -->
+</resources>

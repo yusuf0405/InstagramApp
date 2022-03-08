@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/drawable/ic_baseline_create_24.xml" value="0.1275" />
+        <entry key="app/src/main/res/drawable/ic_baseline_email_24.xml" value="0.1275" />
+        <entry key="app/src/main/res/drawable/ic_baseline_location_on_24.xml" value="0.1275" />
+        <entry key="app/src/main/res/drawable/ic_baseline_person_24.xml" value="0.1275" />
+        <entry key="app/src/main/res/drawable/ic_baseline_wallpaper_24.xml" value="0.1275" />
+        <entry key="app/src/main/res/drawable/ic_placeholder_no_text.xml" value="0.1275" />
+        <entry key="app/src/main/res/layout/activity_home.xml" value="0.2953125" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.2953125" />
+        <entry key="app/src/main/res/layout/add_post_fragment.xml" value="0.24697774251302085" />
+        <entry key="app/src/main/res/layout/bottom_sheet_refactor_email.xml" value="0.2953125" />
+        <entry key="app/src/main/res/layout/fragment_splash.xml" value="0.13260192871093746" />
+        <entry key="app/src/main/res/layout/home_fragment.xml" value="0.19537037037037036" />
+        <entry key="app/src/main/res/layout/login_fragment.xml" value="0.2953125" />
+        <entry key="app/src/main/res/layout/post_item.xml" value="0.3461811570674484" />
+        <entry key="app/src/main/res/layout/profile_fragment.xml" value="0.6273300170898437" />
+        <entry key="app/src/main/res/layout/sign_fragment.xml" value="0.2624145507812498" />
+        <entry key="app/src/main/res/menu/bottom_menu.xml" value="0.2953125" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
